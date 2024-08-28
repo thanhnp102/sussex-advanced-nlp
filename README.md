@@ -1,4 +1,4 @@
-# Advanced Natural Language Processing (ANLP) - Assignment Submission
+# Advanced Natural Language Processing (ANLP) - Propaganda Detection
 
 This repository contains the submission for the Advanced Natural Language Processing (ANLP) module assignment as part of my master's degree coursework. The assignment focuses on the challenging task of propaganda detection using various machine learning approaches.
 
